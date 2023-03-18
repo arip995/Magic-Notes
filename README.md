@@ -1,3 +1,3 @@
 # Magic-Notes
 You can check how this website looks like
-https://magic-notess.herokuapp.com/
+https://verdant-duckanoo-a21220.netlify.app
